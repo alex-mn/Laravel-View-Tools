@@ -1,0 +1,22 @@
+{
+    "name": "alex-mn/laravel-view-tools",
+    "description": "",
+    "authors": [
+        {
+            "name": "Alexandru Muresan",
+            "email": "contact@alex-mn.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.0.*",
+        "alex-mn/laravel-traits": "0.1"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "AlexMn\\LaravelViewTools\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
